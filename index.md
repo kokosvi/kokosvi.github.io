@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### About
 
-You can find some information about me [here](https://github.com/kokosvi/kokosvi.github.io/about).
+You can find some information about me [here](about.md).
